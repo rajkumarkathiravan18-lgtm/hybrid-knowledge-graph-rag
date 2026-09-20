@@ -1,0 +1,1 @@
+"""Security guardrails for the Hybrid Knowledge Graph RAG application."""

@@ -1,0 +1,39 @@
+# API
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Configuration / validation
+pydantic
+pydantic-settings
+python-dotenv
+
+# Document parsing
+pypdf
+
+# LLM / LangChain
+langchain
+langchain-core
+langchain-openai
+
+# Vector database
+faiss-cpu
+
+# Knowledge graph
+neo4j
+
+# Web search
+ddgs==9.16.0
+
+# Guardrails
+nemoguardrails
+
+# Evaluation
+deepeval
+
+# Testing
+pytest
+pytest-asyncio
+
+# HTTP
+httpx

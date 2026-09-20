@@ -1,0 +1,17 @@
+[
+  {
+    "id": "hybrid-rag-001",
+    "question": "What does FAISS do in the Hybrid Knowledge Graph RAG system?",
+    "expected_answer": "FAISS stores vector embeddings of document chunks and performs semantic similarity search for vector retrieval."
+  },
+  {
+    "id": "hybrid-rag-002",
+    "question": "What does Neo4j do in the Hybrid Knowledge Graph RAG system?",
+    "expected_answer": "Neo4j stores entities and relationships extracted from documents and supports relationship-based graph retrieval."
+  },
+  {
+    "id": "hybrid-rag-003",
+    "question": "How do FAISS and Neo4j contribute to the Hybrid Knowledge Graph RAG system?",
+    "expected_answer": "FAISS provides semantic vector retrieval while Neo4j provides relationship-based graph retrieval, allowing the system to combine vector and graph evidence."
+  }
+]
